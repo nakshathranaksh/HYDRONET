@@ -11,4 +11,4 @@ HydroNet is a smart, self-sustaining hydroponic farming system using Atmospheric
 - CSS
 
 ## Live Demo
-https://nakshathranaksh.github.io/hydronet/
+https://nakshathranaksh.github.io/HYDRONET/
